@@ -8,8 +8,6 @@ It combines:
 - Hands-on projects (Terraform, Kubernetes, CI/CD, Observability, HA/DR).
 - GitHub Issues + Project board to track progress over time.
 
----
-
 ## Goals
 - Strengthen Cloud Security, Observability, IaC, CI/CD and Production-Grade Architectures.
 - Build 1-2 flagship projects that are ready for GitHub & LinkedIn.
@@ -34,7 +32,7 @@ It combines:
 - Stage 4 (Days 33-42): CI/CD & Security Automation
 - Stage 5 (Days 43-55): Networking, Cost, HA/DR
 - Stage 6 (Days 56-60+): Final Flagship Project
-
+---
 ## Repository Structure
 
 ```text
