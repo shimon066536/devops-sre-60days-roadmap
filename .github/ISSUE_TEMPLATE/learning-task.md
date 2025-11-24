@@ -2,7 +2,7 @@
 name: Learning Task
 about: Track a single learning task from the 60-day DevOps/SRE roadmap
 title: "[Day X][Stage Y] Short task description"
-labels: ["learning", "roadmap"]
+labels: 'learning, roadmap'
 assignees: ''
 
 ---
