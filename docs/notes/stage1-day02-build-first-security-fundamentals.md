@@ -1,7 +1,7 @@
 # Stage 1 – Day 2 (Build-First): AWS Security Fundamentals
 
 ## Evidence
-- WA Tool Workload created: <yes/no> (name: <...>)
+- WA Tool Workload created: yes (name: 60days-secure-platform)
 - IAM Access Analyzer: <created/verified> (findings: <0/N>)
 - Policy example added: <yes/no>
 
