@@ -13,6 +13,9 @@
 ## 2) IAM Policy: minimal structure + example intent
 - Key elements: Version, Statement, Effect, Action, Resource, Condition
 - Evaluation: implicit deny by default; explicit deny wins
+- Conditions are a primary tool for least privilege
+- Explicit deny overrides allow (not used here, but rule is critical)
+- Implicit deny blocks everything not explicitly allowed
 
 ## 3) Access Analyzer: what I checked today
 
