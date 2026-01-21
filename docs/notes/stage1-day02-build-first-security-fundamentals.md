@@ -2,7 +2,7 @@
 
 ## Evidence
 - WA Tool Workload created: yes (name: 60days-secure-platform)
-- IAM Access Analyzer: created (findings: 0)
+- IAM Access Analyzer: created (name: access-analyzer-60days)
 - Policy example added: <yes/no>
 
 ## 1) Shared Responsibility (1-minute summary)
