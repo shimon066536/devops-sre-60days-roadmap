@@ -1,9 +1,9 @@
 # Stage 1 – Day 2 (Build-First): AWS Security Fundamentals
 
 ## Evidence
-- WA Tool Workload created: yes (name: 60days-secure-platform)
-- IAM Access Analyzer: created (name: access-analyzer-60days)
-- Policy example added: <yes/no>
+- WA Tool Workload created: 60days-secure-platform (screenshot captured)
+- IAM Access Analyzer: access-analyzer-60days (External access), findings: 0 (screenshot captured)
+- Policy example added: yes (docs/snippets/iam/policy-example-least-privilege.json)
 
 ## 1) Shared Responsibility (1-minute summary)
 - AWS: security OF the cloud
